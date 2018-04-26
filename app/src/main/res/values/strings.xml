@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmallBusinessCard</string>
+    <string name="hours"><u>OPEN</u></string>
+    <string name="contact"><u>contact@SweetBasil.com</u></string>
+</resources>
